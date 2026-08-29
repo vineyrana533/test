@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FaresDream — Flight routes</title>
+<meta name="description" content="Compare flights across 4 routes on FaresDream.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{--navy:#12275c;--blue:#1d4ed8;--orange:#f97316;--ink:#1f2a44;--muted:#5b6b8c;--rule:#dbe4f0;--bg:#f4f7fb;--surface:#fff}
+  *{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--ink)}
+  a{text-decoration:none;color:inherit}
+  header{background:var(--navy);color:#fff;padding:16px 24px;display:flex;justify-content:space-between;align-items:center}
+  header .logo{font-weight:800;font-size:1.3rem}header .logo span{color:#f9a04b}
+  header .call{background:var(--blue);color:#fff;font-weight:700;padding:9px 18px;border-radius:999px;font-size:14px}
+  .hero{max-width:1000px;margin:0 auto;padding:40px 24px 10px}
+  .hero h1{font-size:clamp(1.8rem,4vw,2.6rem);color:var(--navy);margin:0 0 8px;font-weight:800}
+  .hero p{color:var(--muted);font-size:1.05rem;margin:0}
+  .wrap{max-width:1000px;margin:0 auto;padding:20px 24px 60px}
+  .group{margin-top:28px}
+  .group h2{color:var(--navy);font-size:1.15rem;margin:0 0 12px;border-bottom:2px solid var(--rule);padding-bottom:8px}
+  .group .oc{color:var(--muted);font-weight:600;font-size:.9rem}
+  .routes{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
+  .route{display:flex;justify-content:space-between;align-items:center;background:var(--surface);border:1px solid var(--rule);border-radius:12px;padding:14px 16px;transition:border-color .15s,box-shadow .15s}
+  .route:hover{border-color:var(--blue);box-shadow:0 4px 14px rgba(18,39,92,.08)}
+  .route .pair{font-weight:700;color:var(--navy)}.route .pair b{color:var(--muted)}
+  .route .code{font-size:12px;color:var(--muted);font-family:ui-monospace,monospace}
+  .empty{color:var(--muted);margin-top:30px}
+  footer{border-top:1px solid var(--rule);color:var(--muted);font-size:13px;text-align:center;padding:24px}
+</style>
+</head>
+<body>
+  <header>
+    <a class="logo" href="./">Fares<span>Dream</span></a>
+    <a class="call" href="tel:+18885967882">&#9742; +1-888-596-7882</a>
+  </header>
+  <div class="hero">
+    <h1>Find your flight</h1>
+    <p>Compare fares, schedules and airlines across 4 routes.</p>
+  </div>
+  <div class="wrap">
+    <section class="group"><h2>New York <span class="oc">(JFK)</span></h2><div class="routes"><a class="route" href="flights/jfk/cun.html"><span class="pair">New York <b>&rarr;</b> Cancun</span><span class="code">JFK-CUN</span></a><a class="route" href="flights/jfk/gdl.html"><span class="pair">New York <b>&rarr;</b> Guadalajara</span><span class="code">JFK-GDL</span></a><a class="route" href="flights/jfk/mex.html"><span class="pair">New York <b>&rarr;</b> Mexico City</span><span class="code">JFK-MEX</span></a><a class="route" href="flights/jfk/mty.html"><span class="pair">New York <b>&rarr;</b> Monterrey</span><span class="code">JFK-MTY</span></a></div></section>
+  </div>
+  <footer>&copy; 2026 FaresDream. Call +1-888-596-7882.</footer>
+</body>
+</html>
