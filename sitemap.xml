@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://faresdream.com/flights/atl/kin/</loc><lastmod>2026-09-11</lastmod></url>
-  <url><loc>https://faresdream.com/flights/atl/mbj/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/bdl/mzt/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/blr/maa/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/bom/dxb/</loc><lastmod>2026-09-11</lastmod></url>
@@ -14,18 +12,13 @@
   <url><loc>https://faresdream.com/flights/bwi/pvr/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/del/bom/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/del/dxb/</loc><lastmod>2026-09-11</lastmod></url>
-  <url><loc>https://faresdream.com/flights/ewr/azs/</loc><lastmod>2026-09-11</lastmod></url>
+  <url><loc>https://faresdream.com/flights/delhi-to-hyderabad/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/ewr/cun/</loc><lastmod>2026-09-11</lastmod></url>
-  <url><loc>https://faresdream.com/flights/ewr/eze/</loc><lastmod>2026-09-11</lastmod></url>
-  <url><loc>https://faresdream.com/flights/ewr/fco/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/ewr/gdl/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/ewr/mex/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/ewr/mid/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/ewr/mzt/</loc><lastmod>2026-09-11</lastmod></url>
-  <url><loc>https://faresdream.com/flights/ewr/puj/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/ewr/pvr/</loc><lastmod>2026-09-11</lastmod></url>
-  <url><loc>https://faresdream.com/flights/ewr/scl/</loc><lastmod>2026-09-11</lastmod></url>
-  <url><loc>https://faresdream.com/flights/ewr/sdq/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/ewr/sjd/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/jfk/cun.html</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/jfk/gdl.html</loc><lastmod>2026-09-11</lastmod></url>
@@ -48,8 +41,6 @@
   <url><loc>https://faresdream.com/flights/lga/mex/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/maa/hyd/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/mex/cun.html</loc><lastmod>2026-09-11</lastmod></url>
-  <url><loc>https://faresdream.com/flights/syr/kin/</loc><lastmod>2026-09-11</lastmod></url>
-  <url><loc>https://faresdream.com/flights/syr/mbj/</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://faresdream.com/flights/ewr/yxe/</loc><lastmod>2026-09-07</lastmod></url>
   <url><loc>https://faresdream.com/flights/ewr/bru/</loc><lastmod>2026-09-07</lastmod></url>
   <url><loc>https://faresdream.com/flights/ewr/yqr/</loc><lastmod>2026-09-07</lastmod></url>
@@ -62,5 +53,15 @@
   <url><loc>https://faresdream.com/flights/lax/nrt/</loc><lastmod>2026-09-07</lastmod></url>
   <url><loc>https://faresdream.com/flights/dxb/bom/</loc><lastmod>2026-09-07</lastmod></url>
   <url><loc>https://faresdream.com/flights/ory/lga/</loc><lastmod>2026-09-07</lastmod></url>
-  <url><loc>https://faresdream.com/flights/delhi-to-hyderabad/</loc><lastmod>2026-09-11</lastmod></url>
+  <url><loc>https://faresdream.com/flights/ewr/scl/</loc><lastmod>2026-09-08</lastmod></url>
+  <url><loc>https://faresdream.com/flights/ewr/fco/</loc><lastmod>2026-09-08</lastmod></url>
+  <url><loc>https://faresdream.com/flights/ewr/eze/</loc><lastmod>2026-09-08</lastmod></url>
+  <url><loc>https://faresdream.com/flights/ewr/azs/</loc><lastmod>2026-09-08</lastmod></url>
+  <url><loc>https://faresdream.com/flights/ewr/puj/</loc><lastmod>2026-09-08</lastmod></url>
+  <url><loc>https://faresdream.com/flights/syr/mbj/</loc><lastmod>2026-09-09</lastmod></url>
+  <url><loc>https://faresdream.com/flights/syr/kin/</loc><lastmod>2026-09-09</lastmod></url>
+  <url><loc>https://faresdream.com/flights/atl/mbj/</loc><lastmod>2026-09-09</lastmod></url>
+  <url><loc>https://faresdream.com/flights/atl/kin/</loc><lastmod>2026-09-09</lastmod></url>
+  <url><loc>https://faresdream.com/flights/ewr/sdq/</loc><lastmod>2026-09-09</lastmod></url>
+  <url><loc>https://faresdream.com/flights/sydney/</loc><lastmod>2026-09-11</lastmod></url>
 </urlset>
